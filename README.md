@@ -87,3 +87,5 @@ Open Code::Blocks and create a new Console Application project in C++.
 
 Replace the content of the default main.cpp with the provided code.
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/2baf311c-060a-44fa-9f24-0e317de9c7d9)
